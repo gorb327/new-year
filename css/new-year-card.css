@@ -1,0 +1,10 @@
+.new-year-card {
+    background-image: url(https://i.pinimg.com/originals/83/f8/5e/83f85e44aa7c208f0671149685e1a627.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position-y: bottom; */
+}
+.text {
+    font-family: 'Courier Prime', monospace;
+    color: rebeccapurple;
+}
